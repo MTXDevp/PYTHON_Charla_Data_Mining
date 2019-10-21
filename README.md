@@ -4,4 +4,4 @@
 
 2. Selenium --> Ejemplo básico de automatización de tareas mediante Selenium
 
-3. DataMining --> Estructuración y limpieza de datos mediante librería PANDAS y uso de MATHPLOTLIB para mostrar gráficos con los resultados (Tweets en formato JSON)
+3. DataMining --> IA analisis del sentimiento, Estructuración y limpieza de datos mediante librería PANDAS y uso de MATHPLOTLIB para mostrar gráficos con los resultados (Tweets en formato JSON)
